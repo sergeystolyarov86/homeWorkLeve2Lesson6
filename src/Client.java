@@ -3,7 +3,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class client {
+public class Client {
     private static Socket socket;
     private static int PORT = 8190;
     private final static String IP_ADDRESS = "localhost";
